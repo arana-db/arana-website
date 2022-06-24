@@ -9,7 +9,7 @@ const config = {
   title: 'Arana',
   tagline: 'Arana, A High performance & Powerful DB Mesh sidecar',
   url: 'https://github.com/arana-db/arana',
-  baseUrl: '/',
+  baseUrl: '/arana/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
